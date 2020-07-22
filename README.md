@@ -1,2 +1,2 @@
 #DEMO new project
-THis is a test file for first commit
+This is a test file for first commit for demo
