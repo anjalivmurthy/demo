@@ -8,3 +8,5 @@ This data is from master
  
 Data from bad branch
 >>>>>>> badbranch
+
+ADding data between stash 
